@@ -1,4 +1,4 @@
-package freemarkerentrypoint;
+package fr.cdy.freemarker;
 
 import static freemarker.template.Configuration.DEFAULT_INCOMPATIBLE_IMPROVEMENTS;
 import static freemarker.template.TemplateExceptionHandler.RETHROW_HANDLER;
