@@ -2,19 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6acc51f1-4e37-40e8-9191-2ddbd1468538" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_freemarker_freemarker_2_3_23.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FreeMarkerEntryPoint.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/freemarkerentrypoint/FreeMarkerEntryPoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/cdy/freemarker/FreeMarkerEntryPoint.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/freemarkerentrypoint/FreeMarkerEntryPointException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/cdy/freemarker/FreeMarkerEntryPointException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fr/cdy/freemarker/FreeMarkerEntryPoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/github/cdeleray/freemarker/FreeMarkerEntryPoint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fr/cdy/freemarker/FreeMarkerEntryPointException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/github/cdeleray/freemarker/FreeMarkerEntryPointException.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +34,11 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="fr.cdy.freemarker" />
+    </key>
+  </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
       <list>
@@ -66,7 +62,19 @@
       <option name="presentableId" value="Default" />
       <updated>1579362694639</updated>
     </task>
+    <task id="LOCAL-00001" summary="change the package name">
+      <created>1579363386694</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1579363386694</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="change the package name" />
+    <option name="LAST_COMMIT_MESSAGE" value="change the package name" />
   </component>
   <component name="WindowStateProjectService">
     <state x="441" y="250" width="483" height="237" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1579363124890">
@@ -77,6 +85,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="479" y="271" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1366.728@0.0.1366.728" timestamp="1579363098397" />
+    <state x="34" y="0" key="CommitChangelistDialog2" timestamp="1579363379494">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="34" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1579363379494" />
     <state x="530" y="258" key="Github.ShareDialog" timestamp="1579362962977">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -85,9 +97,17 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="423" y="70" key="Github.UntrackedFilesDialog/0.0.1366.728@0.0.1366.728" timestamp="1579362975948" />
-    <state x="275" y="98" key="Vcs.Push.Dialog.v2" timestamp="1579363287846">
+    <state x="275" y="98" key="Vcs.Push.Dialog.v2" timestamp="1579365773694">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="98" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1579363287846" />
+    <state x="275" y="98" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1579365773694" />
+    <state x="378" y="156" key="git4idea.merge.GitPullDialog" timestamp="1579363440744">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="378" y="156" key="git4idea.merge.GitPullDialog/0.0.1366.728@0.0.1366.728" timestamp="1579363440743" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1579363894198">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1579363894198" />
   </component>
 </project>

@@ -1,6 +1,4 @@
-package fr.cdy.freemarker;
-
-import fr.cdy.freemarker.FreeMarkerEntryPoint;
+package com.github.cdeleray.freemarker;
 
 /**
  * A {@code FreeMarkerEntryPointException} object represents an exception

@@ -1,4 +1,4 @@
-package fr.cdy.freemarker;
+package com.github.cdeleray.freemarker;
 
 import static freemarker.template.Configuration.DEFAULT_INCOMPATIBLE_IMPROVEMENTS;
 import static freemarker.template.TemplateExceptionHandler.RETHROW_HANDLER;
