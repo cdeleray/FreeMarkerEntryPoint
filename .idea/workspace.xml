@@ -3,14 +3,18 @@
   <component name="ChangeListManager">
     <list default="true" id="6acc51f1-4e37-40e8-9191-2ddbd1468538" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/fr/cdy/freemarker/FreeMarkerEntryPoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/github/cdeleray/freemarker/FreeMarkerEntryPoint.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/fr/cdy/freemarker/FreeMarkerEntryPointException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/github/cdeleray/freemarker/FreeMarkerEntryPointException.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -38,6 +42,30 @@
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="fr.cdy.freemarker" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="FreeMarkerEntryPointTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="FreeMarkerEntryPoint" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.github.cdeleray.freemarker.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.github.cdeleray.freemarker" />
+      <option name="MAIN_CLASS_NAME" value="com.github.cdeleray.freemarker.FreeMarkerEntryPointTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.FreeMarkerEntryPointTest" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -69,14 +97,34 @@
       <option name="project" value="LOCAL" />
       <updated>1579363386694</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="change the package name and clean pom.xml">
+      <created>1579365907082</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1579365907082</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Add (a very simple) unit test">
+      <created>1579551789119</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1579551789119</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="change the package name" />
-    <option name="LAST_COMMIT_MESSAGE" value="change the package name" />
+    <MESSAGE value="change the package name and clean pom.xml" />
+    <MESSAGE value="Add (a very simple) unit test" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add (a very simple) unit test" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="437" y="168" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1579551203512">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="437" y="168" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1579551203512" />
     <state x="441" y="250" width="483" height="237" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1579363124890">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -85,10 +133,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="479" y="271" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1366.728@0.0.1366.728" timestamp="1579363098397" />
-    <state x="34" y="0" key="CommitChangelistDialog2" timestamp="1579363379494">
+    <state x="34" y="0" key="CommitChangelistDialog2" timestamp="1579552111254">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="34" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1579363379494" />
+    <state x="34" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1579552111254" />
     <state x="530" y="258" key="Github.ShareDialog" timestamp="1579362962977">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -97,10 +145,30 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="423" y="70" key="Github.UntrackedFilesDialog/0.0.1366.728@0.0.1366.728" timestamp="1579362975948" />
-    <state x="275" y="98" key="Vcs.Push.Dialog.v2" timestamp="1579365773694">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1579551972196">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="98" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1579365773694" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1579551972196" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1579551972196">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1579551972196" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1579551972196">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1579551972196" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1579551972196">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1579551972196" />
+    <state x="275" y="98" key="Vcs.Push.Dialog.v2" timestamp="1579552129299">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="98" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1579552129299" />
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1579550561525">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1579550561525" />
     <state x="378" y="156" key="git4idea.merge.GitPullDialog" timestamp="1579363440744">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
