@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6acc51f1-4e37-40e8-9191-2ddbd1468538" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/github/cdeleray/freemarker/FreeMarkerEntryPointTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/com/github/cdeleray/freemarker/template.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/copyright/MIT_Licence.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FreeMarkerEntryPoint.iml" beforeDir="false" afterPath="$PROJECT_DIR$/FreeMarkerEntryPoint.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +38,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="copyright.profiles" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -129,10 +127,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="479" y="271" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1366.728@0.0.1366.728" timestamp="1579363098397" />
-    <state x="34" y="0" key="CommitChangelistDialog2" timestamp="1579365901847">
+    <state x="34" y="0" key="CommitChangelistDialog2" timestamp="1579973087376">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="34" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1579365901847" />
+    <state x="34" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1579973087376" />
     <state x="530" y="258" key="Github.ShareDialog" timestamp="1579362962977">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -157,10 +155,14 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1579551719932" />
-    <state x="275" y="98" key="Vcs.Push.Dialog.v2" timestamp="1579365908696">
+    <state x="184" y="7" key="SettingsEditor" timestamp="1579973020272">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="98" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1579365908696" />
+    <state x="184" y="7" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1579973020272" />
+    <state x="275" y="98" key="Vcs.Push.Dialog.v2" timestamp="1579552392712">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="98" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1579552392712" />
     <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1579550561525">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -169,9 +171,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="378" y="156" key="git4idea.merge.GitPullDialog/0.0.1366.728@0.0.1366.728" timestamp="1579363440743" />
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1579363894198">
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1579973012501">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1579363894198" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1579973012501" />
   </component>
 </project>
